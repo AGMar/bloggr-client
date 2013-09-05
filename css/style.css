@@ -1,0 +1,15 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+    background: #EAEAEB url(../images/pattern.png);
+
+}
+#image{
+border:4px #666 solid;
+height:480px;
+width:640px;}
+
+.thumb{
+float:left;
+margin-right:10px;
+margin-top:10px;}
